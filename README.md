@@ -1,1 +1,8 @@
-# trabajo_orientado_a_objeto_seguro
+# 01_ejemplo_poos_n2p1c2
+## Gabriel Mendez
+### git config --global --list
+### git config --global user.name usuario_github
+### git config --global user.email email_github
+### git add .
+### git commit -m "Paciente iniciado"
+### git push origin main
